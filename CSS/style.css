@@ -1,0 +1,47 @@
+html, body {
+    background: url("img/jbg2.jpg");
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #989DB9;
+    
+}
+
+
+
+.jumbotron {
+
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #A3C2DD;
+    padding: 10em;
+     background: url(https://raw.githubusercontent.com/hudsonmarinho/header-and-footer-parallax-effect/master/assets/images/bg-header.jpg) no-repeat 50% 50%;
+        text-decoration-color: aliceblue;
+    }
+
+
+footer {
+	
+    padding: 30px;
+    background: url("https://d3egmynekukbig.cloudfront.net/assets/hero-1-91ce9d3cce293ddac6c954231e549dee.jpg") no-repeat fixed center center / cover transparent;
+    
+    text-decoration-color: aqua;
+   
+}
+       
+
+
+h2 {
+    color:aliceblue;
+   
+}
+
+h3 {
+    position: relative;
+    top: -30px;
+    text-decoration-color:deepskyblue;
+
+}
+
+
